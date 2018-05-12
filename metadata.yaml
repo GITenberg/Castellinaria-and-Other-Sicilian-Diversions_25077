@@ -1,0 +1,26 @@
+_repo: Castellinaria-and-Other-Sicilian-Diversions_25077
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jones, Henry Festing
+    birthdate: 1851
+    deathdate: 1928
+    gutenberg_agent_id: '1080'
+    url: http://www.gutenberg.org/2009/agents/1080
+description: ''
+gutenberg_issued: '2008-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25077'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Sicily (Italy) -- Description and travel'
+title: Castellinaria, and Other Sicilian Diversions
+url: http://www.gutenberg.org/ebooks/25077
