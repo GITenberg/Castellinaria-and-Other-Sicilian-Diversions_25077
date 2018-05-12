@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '1080'
     url: http://www.gutenberg.org/2009/agents/1080
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25077#Castellinaria-and-Other-Sicilian-Diversions
 gutenberg_issued: '2008-04-15'
 gutenberg_type: Text
 identifiers:
